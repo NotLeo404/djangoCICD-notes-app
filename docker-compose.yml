@@ -1,5 +1,4 @@
 version: "3.8"
-
 services:
   web:
     image: "meetgondaliya31/notes-app:latest"
