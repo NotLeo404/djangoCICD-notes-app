@@ -1,6 +1,9 @@
 version: "3.8"
-services:
+
+services: 
+
   web:
+  
     image: "meetgondaliya31/notes-app:latest"
     ports:
       - "8000:8000"
